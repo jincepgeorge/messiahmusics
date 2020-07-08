@@ -1,0 +1,22 @@
+{
+  "name": "messiahmusicsweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jincepgeorge/messiahmusics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jincepgeorge/messiahmusics/issues"
+  },
+  "homepage": "https://github.com/jincepgeorge/messiahmusics#readme",
+  "dependencies": {
+    "angular-cli-ghpages": "^0.6.2"
+  }
+}
